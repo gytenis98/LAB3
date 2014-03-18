@@ -39,6 +39,8 @@ nibble3 <= "0000";
 ```
 We have values assigned. "nibble1" is different in both machines because in Mealy machine we want "second" digit to show us our target floor.
 
+Error wise everything else looks good.
+
 ##Demos:
 Capt Silva check my machine at 11:15 on 17 March.
 
