@@ -48,6 +48,12 @@ Capt Silva check my machine at 11:15 on 17 March.
 ####Documentation:
 
 C3C Spence helped me to understand the concept. 
-Capt Silva helped me with github problems which occured because of to me repositories.
+Capt Silva helped me with github problems which occured because of creating too many repositories.
 
-
+#Functionality
+###Basic Moore
+###Basic Mealy
+###Moore floors
+###Change inputs
+###lights show
+###Two Elevators
