@@ -11,7 +11,7 @@ Schematic for Nexys2_top_shell.vhd
 #Main LAB
 
 
-##BAD
+###BAD
 ```
 nibble0 <= 
 nibble1 <= 
@@ -21,16 +21,16 @@ nibble3 <=
 ```
 We don't have any values assigned. 
 
-##GOOD
+###GOOD
 
-####MORE
+#######MORE
 ```
 nibble0 <= floorSig(3 downto 0);
 nibble1 <= "0000";
 nibble2 <= "0000";
 nibble3 <= "0000";
 ```
-####Mealy
+#######Mealy
 ```
 nibble0 <= floorSig(3 downto 0);
 nibble1 <= nextFloorSig;
