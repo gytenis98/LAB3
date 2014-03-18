@@ -13,7 +13,7 @@ Schematic for Nexys2_top_shell.vhd
 
 
 Demos:
-Capt Silva check my machine at 17 March 2014.
+Capt Silva check my machine at 11:15 on 17 March.
 
 
 Documentation:
